@@ -3,7 +3,7 @@ Augmented reality Covid_19 shooting game
 
 # Features
 * UI (menu /level 1/ lose)
-* 
+* Click on the laser to shoot the virus
 
 ## version
 unity 2020.3.26.f1
